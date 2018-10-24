@@ -2,7 +2,7 @@
 
 ## Overview
 
-Building upon previous code alongs, in this exercise you will add column structure to your page layouts by coding along with the video provided. This will help you to review the concepts you were introduced to in the previous lessons.
+Building upon previous code alongs, in this exercise gyou will add column structure to your page layouts by coding along with the video provided. This will help you to review the concepts you were introduced to in the previous lessons.
 
 ## Instructions
 
